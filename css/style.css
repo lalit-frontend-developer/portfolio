@@ -2551,7 +2551,7 @@ h5,
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 120px;
+    bottom: 50px;
     z-index: 2;
 }
 
@@ -2823,11 +2823,13 @@ h5,
 .ftco-partner .partner {
     display: block;
     padding: 0 20px;
+	width:110px;
+	margin:0 auto
 }
 
 @media (max-width: 991.98px) {
     .ftco-partner .partner {
-        padding: 0 70px;
+        padding: 0 15px;
         margin-bottom: 40px;
     }
 }
